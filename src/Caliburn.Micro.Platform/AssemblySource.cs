@@ -5,7 +5,7 @@ using System.ComponentModel;
 using System.Linq;
 using System.Reflection;
 
-namespace Caliburn.Micro
+namespace Caliburn.Micro.Xamarin.Forms
 {
     /// <summary>
     /// A source of assemblies that are inspectable by the framework.

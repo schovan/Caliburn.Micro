@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Foundation;
 using UIKit;
 
-namespace Caliburn.Micro
+namespace Caliburn.Micro.Xamarin.Forms
 {
     /// <summary>
     /// A <see cref="IPlatformProvider"/> implementation for the Xamarin iOS platfrom.

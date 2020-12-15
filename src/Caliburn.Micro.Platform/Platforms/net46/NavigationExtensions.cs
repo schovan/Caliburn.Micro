@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Caliburn.Micro
+namespace Caliburn.Micro.Xamarin.Forms
 {
     /// <summary>
     /// Extension methods related to navigation.

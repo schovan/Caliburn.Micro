@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Caliburn.Micro
+namespace Caliburn.Micro.Xamarin.Forms
 {
     /// <summary>
     ///  Helper class for encoding strings to regular expression patterns

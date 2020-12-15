@@ -1,7 +1,7 @@
 using System;
 using Android.App;
 
-namespace Caliburn.Micro
+namespace Caliburn.Micro.Xamarin.Forms
 {
     /// <summary>
     /// Arguments for activity events

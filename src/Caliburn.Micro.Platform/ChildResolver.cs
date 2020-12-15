@@ -7,7 +7,7 @@ using Windows.UI.Xaml;
 using System.Windows;
 #endif
 
-namespace Caliburn.Micro
+namespace Caliburn.Micro.Xamarin.Forms
 {
     /// <summary>
     /// Represents a resolver that takes a control and returns it's children

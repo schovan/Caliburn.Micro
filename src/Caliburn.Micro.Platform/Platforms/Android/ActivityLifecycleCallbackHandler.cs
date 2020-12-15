@@ -2,7 +2,7 @@ using System;
 using Android.App;
 using Android.OS;
 
-namespace Caliburn.Micro
+namespace Caliburn.Micro.Xamarin.Forms
 {
     /// <summary>
     /// Handles callbacks for the activity lifecycle and exposes them as events

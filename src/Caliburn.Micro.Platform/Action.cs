@@ -1,4 +1,4 @@
-﻿namespace Caliburn.Micro
+﻿namespace Caliburn.Micro.Xamarin.Forms
 {
 #if WINDOWS_UWP
     using System.Linq;

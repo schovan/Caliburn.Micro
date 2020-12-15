@@ -2,7 +2,7 @@
 using System.Threading.Tasks;
 using Windows.UI.Core;
 
-namespace Caliburn.Micro
+namespace Caliburn.Micro.Xamarin.Forms
 {
     public static class DispatcherTaskExtensions
     {

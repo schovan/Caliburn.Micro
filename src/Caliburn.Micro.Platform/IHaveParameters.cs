@@ -1,4 +1,4 @@
-﻿namespace Caliburn.Micro
+﻿namespace Caliburn.Micro.Xamarin.Forms
 {
     /// <summary>
     /// Indicates that a message is parameterized.

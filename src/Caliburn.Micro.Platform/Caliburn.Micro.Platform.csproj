@@ -4,9 +4,10 @@
     <TargetFrameworks>net461;uap10.0.16299;Xamarin.iOS10;MonoAndroid80;netstandard2.0;netcoreapp3.1;net5.0-windows</TargetFrameworks>
     <PackageId>Caliburn.Micro</PackageId>
     <Product>Caliburn.Micro</Product>
-    <RootNamespace>Caliburn.Micro</RootNamespace>
+    <RootNamespace>Caliburn.Micro.Xamarin.Forms</RootNamespace>
     <AssemblyOriginatorKeyFile>.\..\Caliburn.Micro.snk</AssemblyOriginatorKeyFile>
     <SignAssembly>true</SignAssembly>
+    <AssemblyName>Caliburn.Micro.Xamarin.Forms</AssemblyName>
   </PropertyGroup>
 
 

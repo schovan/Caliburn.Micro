@@ -1,4 +1,4 @@
-﻿namespace Caliburn.Micro {
+﻿namespace Caliburn.Micro.Xamarin.Forms {
     /// <summary>
     /// Service that handles sharing data with the Share Charm.
     /// </summary>

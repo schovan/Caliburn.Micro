@@ -1,5 +1,5 @@
 ﻿#if WINDOWS_UWP
-namespace Caliburn.Micro
+namespace Caliburn.Micro.Xamarin.Forms
 {
     using System;
     using Windows.UI.Xaml;

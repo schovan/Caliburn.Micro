@@ -1,6 +1,6 @@
 using System;
 
-namespace Caliburn.Micro
+namespace Caliburn.Micro.Xamarin.Forms
 {
     /// <summary>
     /// An interface to allow the IOSPlatformProvider provide view lifecycle events

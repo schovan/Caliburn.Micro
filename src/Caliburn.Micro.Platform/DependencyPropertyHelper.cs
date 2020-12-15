@@ -8,7 +8,7 @@ using Windows.UI.Xaml;
 using System.Windows;
 #endif
 
-namespace Caliburn.Micro
+namespace Caliburn.Micro.Xamarin.Forms
 {
     /// <summary>
     /// Class that abstracts the differences in creating a DepedencyProperty / BindableProperty on the different platforms.

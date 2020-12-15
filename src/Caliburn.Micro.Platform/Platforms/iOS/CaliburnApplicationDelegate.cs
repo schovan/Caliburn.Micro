@@ -4,7 +4,7 @@ using System.Reflection;
 using Foundation;
 using UIKit;
 
-namespace Caliburn.Micro
+namespace Caliburn.Micro.Xamarin.Forms
 {
     /// <summary>
     /// Encapsulates the app and its available services.
